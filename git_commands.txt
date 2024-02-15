@@ -1,0 +1,8 @@
+git init 
+git remote add origin https://github.com/navin067/Machine_lear  rney> git initning_series.git 
+git remote -v
+git status
+git branch
+git add .
+git commit -m "first day contains python basics"
+
